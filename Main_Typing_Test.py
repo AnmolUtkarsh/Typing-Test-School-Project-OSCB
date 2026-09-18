@@ -12,7 +12,7 @@ import time
 import pandas as pd
 import os
 
-#Created and Integrated by AI:
+#Created by AI:
 csvFile = os.path.join(
     os.path.dirname(os.path.abspath(__file__)),
     "test_results.csv"
